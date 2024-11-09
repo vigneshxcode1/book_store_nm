@@ -4,6 +4,9 @@ import img1 from "../../../assets/images/german.jpg";
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 import './bestseller.css'
+
+// const base_url="http://3.111.51.4:3000"
+
 const base_url="http://localhost:3000"
 
 function BasicExample() {
